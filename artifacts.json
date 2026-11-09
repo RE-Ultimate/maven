@@ -118,5 +118,17 @@
   {
     "path": "com/unascribed/unsup/1.2.7/unsup-1.2.7.pom",
     "sha256": "a6c37eadc13e4e08585138f69b22aec57b82f6069d3ba853632838c784b6369a"
+  },
+  {
+    "path": "diy/y2k/stator-java8/4.1.3/stator-java8-4.1.3-sources.jar",
+    "sha256": "f29d74218b4be4ab09ec1e9f3747704709deb03ee903431ff6ce4fc36961662a"
+  },
+  {
+    "path": "diy/y2k/stator-java8/4.1.3/stator-java8-4.1.3.jar",
+    "sha256": "5c0afe8f0cc32915074bd56ec2d554dc3edb993bdf654d975afb9c107a579a0b"
+  },
+  {
+    "path": "diy/y2k/stator-java8/4.1.3/stator-java8-4.1.3.pom",
+    "sha256": "4e985e5af1626e4452e19ee1e62105055b0a40b4f37746568326cb39f1c18362"
   }
 ]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>diy.y2k</groupId>
+  <artifactId>stator-java8</artifactId>
+  <version>4.1.3</version>
+  <name>Stator</name>
+  <description>A somewhat opinionated collection of assorted utilities for Java.</description>
+  <url>https://git.sleeping.town/exa/Stator</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://git.sleeping.town/exa/Stator/src/branch/trunk/LICENSE</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>exaskye</id>
+      <name>Exa Skye</name>
+      <email>exa@y2k.diy</email>
+    </developer>
+    <developer>
+      <id>Falkreon</id>
+      <name>Isaac Ellingson</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://git.sleeping.town/exa/Stator.git</connection>
+    <developerConnection>scm:git:ssh://git@sleeping.town/exa/Stator.git</developerConnection>
+    <url>https://git.sleeping.town/exa/Stator</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.9</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>listenablefuture</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.checkerframework</groupId>
+      <artifactId>checker-qual</artifactId>
+      <version>3.21.0</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

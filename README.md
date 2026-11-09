@@ -12,6 +12,7 @@ Use `https://raw.githubusercontent.com/RE-Ultimate/maven/main` as a Maven reposi
 | NilLoader 1.3.1, 1.3.4, and 1.3.5 | [Source and tags](https://github.com/RE-Ultimate/NilLoader), LGPL; source JARs included |
 | UnknownThingy 1.19 and 1.23 | [Mapping source](https://github.com/RE-Ultimate/UnknownThingy), original notices retained |
 | unsup 1.2.7 | [Source tag](https://github.com/RE-Ultimate/unsup/tree/v1.2.7), LGPL |
+| Stator Java 8 4.1.3 | MIT; original POM and complete source JAR included |
 | FlexVer Java 1.1.1 | Original artifact and source JAR from Maven Central; its original license applies |
 
 License texts are in `licenses`. This repository does not apply one new license to its contents.
