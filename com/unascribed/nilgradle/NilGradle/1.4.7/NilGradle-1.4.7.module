@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.unascribed.nilgradle",
+    "module": "NilGradle",
+    "version": "1.4.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "NilGradle-1.4.7-slim.jar",
+          "url": "NilGradle-1.4.7-slim.jar",
+          "size": 99414,
+          "sha512": "c1ca011993d6bcd5c1fdcbb1a72f49da64463605dd96ca9faf7d20042d6a78f789bab888d628c7fb0b4979ac1e2947ef75ae002c2e45b0fcf235c595f8605168",
+          "sha256": "beb5c183b6e774b2be9919d1e1d81758c92cdb48a8beabbd0f9158ecb2dd0088",
+          "sha1": "52c778e1242ea2a8f767f82259c3a315cd742830",
+          "md5": "150c2544e9dcb922a0663429aa5c7a1a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NilGradle-1.4.7-slim.jar",
+          "url": "NilGradle-1.4.7-slim.jar",
+          "size": 99414,
+          "sha512": "c1ca011993d6bcd5c1fdcbb1a72f49da64463605dd96ca9faf7d20042d6a78f789bab888d628c7fb0b4979ac1e2947ef75ae002c2e45b0fcf235c595f8605168",
+          "sha256": "beb5c183b6e774b2be9919d1e1d81758c92cdb48a8beabbd0f9158ecb2dd0088",
+          "sha1": "52c778e1242ea2a8f767f82259c3a315cd742830",
+          "md5": "150c2544e9dcb922a0663429aa5c7a1a"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "NilGradle-1.4.7.jar",
+          "url": "NilGradle-1.4.7.jar",
+          "size": 2526070,
+          "sha512": "225bf8ec7622fff18257bd013667c7dcc9082c29f8fdc8ddbfff366d369b858d4c2a592ef376598e68f943b5459c0d9bba5f87933e9fe3bbaaa707d2e8ee9467",
+          "sha256": "16be6533bd5a8affec509538c1c8ed13c219343d44771b87ec5e6bbc047c6694",
+          "sha1": "eefa6a7378f5b0e8cefc813193deb6e96a2921ab",
+          "md5": "f6971ff542cc98b72cc4e06d1d1bb8c7"
+        }
+      ]
+    }
+  ]
+}

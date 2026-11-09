@@ -1,0 +1,122 @@
+[
+  {
+    "path": "com/unascribed/flexver-java/1.1.1/flexver-java-1.1.1-sources.jar",
+    "sha256": "fc95b4184e4da07f82c788dae578f469bb93a496f4a03537476b00fd3b3a679a"
+  },
+  {
+    "path": "com/unascribed/flexver-java/1.1.1/flexver-java-1.1.1.jar",
+    "sha256": "9d7cc6601af2500cd5ee70ea7f596a1aa847d4b5102d401ff279572c373dbd99"
+  },
+  {
+    "path": "com/unascribed/flexver-java/1.1.1/flexver-java-1.1.1.pom",
+    "sha256": "5631c7105b47e2f36391314b89602fb75972a84e6e065b9a3e3244767c38339c"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.4/NilGradle-1.4.4-slim.jar",
+    "sha256": "b54f5d7ca4f8513f0ade9c55c4ee455f0e390113fc79a0fe5afcdf734be7eea4"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.4/NilGradle-1.4.4.jar",
+    "sha256": "e93acd06ac581a50ce2d480db597e1928e7f39eaefd94bda7b7e852b1674fa01"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.4/NilGradle-1.4.4.module",
+    "sha256": "0602155c232142b39f7d24f04f4b8217cd0ad09b6878504b28193815bf37b445"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.4/NilGradle-1.4.4.pom",
+    "sha256": "2e6971b2e53cb256a89414f3346e1faed888e60d321ec749038b63c18c3402a6"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.7/NilGradle-1.4.7-slim.jar",
+    "sha256": "beb5c183b6e774b2be9919d1e1d81758c92cdb48a8beabbd0f9158ecb2dd0088"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.7/NilGradle-1.4.7.jar",
+    "sha256": "16be6533bd5a8affec509538c1c8ed13c219343d44771b87ec5e6bbc047c6694"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.7/NilGradle-1.4.7.module",
+    "sha256": "d740db35061c0c80699927aae7807fcae5f3472783bc68156e8feb31c4771950"
+  },
+  {
+    "path": "com/unascribed/nilgradle/NilGradle/1.4.7/NilGradle-1.4.7.pom",
+    "sha256": "a941fcd79c09b74c25e68946770a1f5555684c4b61d32d9bbc4d97e8c6d5323b"
+  },
+  {
+    "path": "com/unascribed/nilgradle/com.unascribed.nilgradle.gradle.plugin/1.4.4/com.unascribed.nilgradle.gradle.plugin-1.4.4.jar",
+    "sha256": "e93acd06ac581a50ce2d480db597e1928e7f39eaefd94bda7b7e852b1674fa01"
+  },
+  {
+    "path": "com/unascribed/nilgradle/com.unascribed.nilgradle.gradle.plugin/1.4.4/com.unascribed.nilgradle.gradle.plugin-1.4.4.pom",
+    "sha256": "b912aebaea7b722cb5cc64bd60f35ee8011454943eb45c23e06e046cf1f98f2b"
+  },
+  {
+    "path": "com/unascribed/nilgradle/com.unascribed.nilgradle.gradle.plugin/1.4.7/com.unascribed.nilgradle.gradle.plugin-1.4.7.jar",
+    "sha256": "16be6533bd5a8affec509538c1c8ed13c219343d44771b87ec5e6bbc047c6694"
+  },
+  {
+    "path": "com/unascribed/nilgradle/com.unascribed.nilgradle.gradle.plugin/1.4.7/com.unascribed.nilgradle.gradle.plugin-1.4.7.pom",
+    "sha256": "62fba6e9f8aabc59d73e4e34cb5f031204372dea1d662e93a37635c9cead6996"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.1/nilloader-1.3.1-sources.jar",
+    "sha256": "5685e3eafd5ddb04131de401db29282070896577de29ded382270009bbd82479"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.1/nilloader-1.3.1.jar",
+    "sha256": "c8cd863604d256157dcf6d2bd649d50494831d156919d18cfbeb93544489c885"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.1/nilloader-1.3.1.pom",
+    "sha256": "7a4437afc2720f97de2cdc605b76c745a59762bc9f10ca76e09f3556408e5610"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.4/nilloader-1.3.4-sources.jar",
+    "sha256": "fa4d966baec7313495589fb088ac56f213dad82a46523ce411cd81365ade2c69"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.4/nilloader-1.3.4.jar",
+    "sha256": "3b4e57e873fae2069c5c648f6095865005f5498def757849d06e97429cef542c"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.4/nilloader-1.3.4.pom",
+    "sha256": "0f39137a478fd9f7eb61c68b8909c71bbd6385a5badff9f577463e5c889d6471"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.5/nilloader-1.3.5-sources.jar",
+    "sha256": "7eb7d5f7fd8db5bbfaf6b048a7314cbf45c016c5d9b86f09ef9bb4493b73fac6"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.5/nilloader-1.3.5.jar",
+    "sha256": "ea593ca37ca03e723a6585564964e5d56d37fbd4b15de848323838a4dfa8efbb"
+  },
+  {
+    "path": "com/unascribed/nilloader/1.3.5/nilloader-1.3.5.pom",
+    "sha256": "0c431c8e32a558d3895f0782bd7d024f5dbc51618a017fb910c1122ea48e1b3b"
+  },
+  {
+    "path": "com/unascribed/unknownthingy/1.19/unknownthingy-1.19.pom",
+    "sha256": "a9d3b3ec66f19f2c0fbf4a7116cba65830e60992c62e8f62e572d7002a379fda"
+  },
+  {
+    "path": "com/unascribed/unknownthingy/1.19/unknownthingy-1.19.tsrg",
+    "sha256": "e27b65639e1af18cc819d4e3312e92e0eb939d627d40e86392af91274486b9f7"
+  },
+  {
+    "path": "com/unascribed/unknownthingy/1.23/unknownthingy-1.23.pom",
+    "sha256": "38a28a82ef959f897f355109d5a3714ba44759213570b747113ab2ab76b45450"
+  },
+  {
+    "path": "com/unascribed/unknownthingy/1.23/unknownthingy-1.23.tsrg",
+    "sha256": "2306de630a01236046e623693447b1f9d16d0d7c2e409660bca21e2e520faa30"
+  },
+  {
+    "path": "com/unascribed/unsup/1.2.7/unsup-1.2.7.jar",
+    "sha256": "34483991b6bf218636d6769466faa5246901074bce731538147aa255cc046d59"
+  },
+  {
+    "path": "com/unascribed/unsup/1.2.7/unsup-1.2.7.pom",
+    "sha256": "a6c37eadc13e4e08585138f69b22aec57b82f6069d3ba853632838c784b6369a"
+  }
+]

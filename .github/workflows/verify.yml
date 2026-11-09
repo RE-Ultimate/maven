@@ -1,0 +1,17 @@
+name: Verify artifacts
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify pinned checksums
+        run: |
+          python3 - <<'PYTHON'
+          import hashlib, json
+          from pathlib import Path
+          for item in json.loads(Path('artifacts.json').read_text()):
+              assert hashlib.sha256(Path(item['path']).read_bytes()).hexdigest() == item['sha256'], item['path']
+          PYTHON
